@@ -5,8 +5,8 @@ Paint simples desenvolvido em Java utilizando JSGE.
 ## Sobre o projeto
 
 O projeto consiste em um Paint básico para criação e edição de desenhos.
-Ele possui aproximadamente 350 linhas de código e foi desenvolvido
-com o objetivo de praticar conceitos de programação em Java.
+Foi desenvolvido com o objetivo de praticar conceitos de programação em Java
+na disciplina de Estrutura de Dados.
 
 ## Funcionalidades
 
@@ -29,4 +29,5 @@ com o objetivo de praticar conceitos de programação em Java.
 
 ## Autor
 
-Fernanda Chen
+Fernanda Chen - estudante de BCC - IFSP campus SJBV
+
